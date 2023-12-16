@@ -1,0 +1,13 @@
+def display_tic_tac_toe(grid):
+    for row in grid:
+        print(" ".join(row))
+
+# Example grid
+result_grid = [
+    ["O", "X", "X"],
+    ["O", "X", "O"],
+    ["X", "O", "X"]
+]
+
+# Display the result grid
+display_tic_tac_toe(result_grid)
