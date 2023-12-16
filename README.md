@@ -1,2 +1,2 @@
 # hyperskill-writeup
-A Write-up for any coding projects and answers for HyperSkill
+Documenting my coding journey at HyperSkill: Currently exploring Python, with plans to delve into additional tracks soon
