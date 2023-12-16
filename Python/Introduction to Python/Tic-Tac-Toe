@@ -1,0 +1,13 @@
+def print_tic_tac_toe(grid):
+    for row in grid:
+        print(" ".join(row))
+
+if __name__ == "__main__":
+    # Example tic-tac-toe grid
+    tic_tac_toe_grid = [
+        ['X', 'O', 'X'],
+        ['O', 'X', 'O'],
+        ['X', 'X', 'O']
+    ]
+
+    print_tic_tac_toe(tic_tac_toe_grid)
