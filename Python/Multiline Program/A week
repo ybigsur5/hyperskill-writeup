@@ -1,0 +1,9 @@
+def print_days_of_week():
+    days_of_week = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+    for day in days_of_week:
+        print(day)
+        print()  # Empty line between days
+
+# Print the days of the week
+print_days_of_week()
